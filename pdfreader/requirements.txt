@@ -1,0 +1,10 @@
+fastapi[standard]==0.113.0
+langchain
+langchain-community
+beautifulsoup4
+langchain-openai
+langchain-deeplake
+tiktoken
+pydantic
+unstructured
+selenium
